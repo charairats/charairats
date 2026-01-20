@@ -37,16 +37,8 @@ I'm a software developer focused on building high-quality, scalable, and secure 
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charairats&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=charairats&theme=telegram-gradient&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=charairats&theme=midnight-purple&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charairats&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=charairats&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charairats&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
