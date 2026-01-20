@@ -31,6 +31,7 @@ I'm a software developer focused on building high-quality, scalable, and secure 
 ## 🌟 Beyond Coding
 * 🌊 **Genshin Impact:** Hydro Mains only! (Proudly maining **Neuvillette** & **Columbina**).
 * 📈 **Investing:** Managing a global portfolio: **S&P 500**, **Euro Stoxx 600**, **CSI 300**, **Nikkei 225**, and **Gold**.
+* 🤖 **Android Disciple:** Xiaomi 14 x Leica 📸 ⚡️ Snapdragon 8 Gen 3 Inside | HyperOS 2 (Android 15)
 * ⌚ **Health:** Performance tracking via **Garmin Venu 3**.
 
 ---
