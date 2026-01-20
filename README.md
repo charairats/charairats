@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:2F80ED&height=300&section=header&text=Jean%20Charairat&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=51&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=Speech&color=0:00C9FF,100:005BEA&height=300&section=header&text=Jean%20Charairat&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=51&descSize=20" width="100%" />
 </p>
 
 # 💫 About Me
