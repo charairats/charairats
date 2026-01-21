@@ -7,7 +7,6 @@
 
 I'm a software developer focused on building high-quality, scalable, and secure systems. Beyond writing code, I'm interested in the full lifecycle of Software Engineering—from architectural design and quality assurance to robust security practices.
 
-- 🎓 **Education:** Master's degree in **Software Engineering** at Chulalongkorn University.
 - 🛡️ **Security Enthusiast:** Experienced in SAST using **SonarQube**, **Checkmarx One**, and **GitHub CodeQL**.
 - 💡 **Side Projects:** Founder of **Obvious Technology**, a tech consulting initiative.
 - 📱 **Primary Stack:** Specialized in **Flutter**, **Node.js**, and **.NET**.
